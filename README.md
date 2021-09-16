@@ -32,3 +32,4 @@
 - [Lil'Log](https://lilianweng.github.io/lil-log/)
 - [Introduction to GNNs](https://www.youtube.com/watch?v=uF53xsT7mjc&feature=youtu.be)
 - [Diffusion Models Talk Slides](./slides/diffusion_models.pdf)
+- [Diffusion Models Papers Review](./slides/diffusion_models.pdf)
